@@ -9,7 +9,7 @@ public class Hello {
 		boolean flag= true;
 		String str ="sjhjkhadjskhjksah";
 
-	System.out.println(" Hello"+  name +number + flag +str);
+	System.out.println(" primitiv variable "+  name +number + flag +str);
 	}
 
 }
